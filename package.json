@@ -11,8 +11,15 @@
     "postinstall": "node lib/init.js",
     "lint": "eslint lib"
   },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/remotesc2/yd-tools.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remotesc2/yd-tools/issues"
+  },
   "dependencies": {
     "autoprefixer": "^7.1.4",
     "babel-core": "^6.25.0",
