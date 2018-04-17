@@ -1,5 +1,10 @@
 # 更新说明
 
+
+## 1.7.4 (2018-01-15)
+
++ [refactor] 根据 npm scripts 调整，prepublish 修改为 prepublishOnly
+
 ## 1.7.2 (2018-01-15)
 
 + [docs] 调整文档说明
