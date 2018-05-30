@@ -1,6 +1,6 @@
 {
   "name": "yd-tools",
-  "version": "1.7.4",
+  "version": "1.8.2",
   "description": "",
   "bin": {
     "yd-tools": "./bin/yd-tools.js",
