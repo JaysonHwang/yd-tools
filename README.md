@@ -4,7 +4,7 @@
 
 ## 1.9.0 (2018-06-04)
 
-+ [feat] 配合 ftp，新增 site-upload
++ [feat] 配合 ftp，新增 site-upload 命令
 
 ## 1.8.0~2 (2018-05-29)
 
